@@ -101,7 +101,7 @@ Linuxbrew 包管理器的使用方式与 Homebrew 一致：`brew install xray`
 - OpenWrt
   - [PassWall](https://github.com/xiaorouji/openwrt-passwall)
   - [Hello World](https://github.com/jerrykuku/luci-app-vssr)
-  - [ShadowSocksR Plus+](https://github.com/fw876/helloworld)
+  - [ShadowSocksR Plus+](https://github.com/fw876/helloworld)（该项目已删库）
   - [luci-app-xray](https://github.com/yichya/luci-app-xray) ([openwrt-xray](https://github.com/yichya/openwrt-xray))
 - Windows
   - [v2rayN](https://github.com/2dust/v2rayN)
